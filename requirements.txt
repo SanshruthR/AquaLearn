@@ -1,0 +1,6 @@
+streamlit==1.39.0
+h2o==3.46.0.5
+pandas==2.2.2
+matplotlib==3.7.1
+numpy==1.26.4
+scikit-learn
