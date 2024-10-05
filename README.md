@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.23.0-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![H2O](https://img.shields.io/badge/H2O-3.40.0-00FFFF?style=for-the-badge&logo=h2o&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-1.5.3-150458?style=for-the-badge&logo=pandas&logoColor=white)
 [![Deployed on Hugging Face](https://img.shields.io/badge/Deployed%20on-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Sanshruth/AquaLearn)
 ![image](https://github.com/user-attachments/assets/4443073f-5bf6-448c-bc6f-3b84300bd1aa)
 
